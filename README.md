@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your data analytics project:
-
----
-
 # Data Analytics Project
 
 ## Overview
