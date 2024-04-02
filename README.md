@@ -26,22 +26,15 @@ git clone https://github.com/yourusername/data-analytics-project.git
 cd data-analytics-project
 ```
 
-3. Run the Python scripts provided to execute the project. For example:
+3. Click on "Run All" to execute all the code blocks for the entire 3D process.
 
-```bash
-python data_preprocessing.py
-python exploratory_data_analysis.py
-python feature_engineering.py
-python model_training.py
-python evaluation.py
-python visualization.py
-```
+
 
 ## Project Structure
 
-- **data.py**: .
-- **exploratory_data_analysis.py**: Original Dataset.
-- **feature_engineering.py**: Combined Dataset.
+- **Model.ipynb**: Main code to showcase our model
+- **combined_datasheets.csv**: Combined Dataset with outliers
+- **cleaned_data.csv**: Cleaned Dataset with no outliers
 
 ## Dataset
 
