@@ -34,7 +34,9 @@ cd data-analytics-project
 
 - **Model.ipynb**: Main code to showcase our model
 - **combined_datasheets.csv**: Combined Dataset with outliers
-- **cleaned_data.csv**: Cleaned Dataset with no outliers
+- **cleaned_data.csv**: Combined Dataset with no outliers
+
+The cleaned_data csv is produced after the combined_datasheets have their outliers removed.
 
 ## Dataset
 
